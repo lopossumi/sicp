@@ -1,6 +1,6 @@
 # sicp
 
-My solutions for the [SICP](http://mitpress.mit.edu/sicp/) exercises.
+My attempts at solving the [SICP](http://mitpress.mit.edu/sicp/) exercises.
 
 ## License
 
